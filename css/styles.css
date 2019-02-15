@@ -34,11 +34,12 @@
   transform: rotateY(180deg);
 }
 
-/*.rhom{
+.rhom {
   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
-  transform:rotateY(180deg);
+  transform: rotateY(180deg);
 }
-.btn2{
+
+/*.btn2{
 width:500px;
 margin:0 auto;
 }
