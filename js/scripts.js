@@ -7,26 +7,26 @@ var navigate = (function() {
   });
 })();
 
-/*
-$(function(){
-		$('#triangle').on("click", function () {
-		$('#cut').toggleClass("tri");
 
-		});
+$(function() {
+      $('#triangle').on("click", function() {
+        $('#cut').toggleClass("tri");
 
-  	$('#circle').on("click", function () {
-		$('#cut').toggleClass("cir");
+      });
 
-		});
+      /*  	$('#circle').on("click", function () {
+      		$('#cut').toggleClass("cir");
 
-  	$('#pentagon').on("click", function () {
-		$('#cut').toggleClass("pent");
+      		});
 
-		});
+        	$('#pentagon').on("click", function () {
+      		$('#cut').toggleClass("pent");
 
-  	$('#rhombus').on("click", function () {
-		$('#cut').toggleClass("rhom");
+      		});
 
-		});
+        	$('#rhombus').on("click", function () {
+      		$('#cut').toggleClass("rhom");
 
-		});
+      		});
+
+      		});
