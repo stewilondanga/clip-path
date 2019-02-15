@@ -19,12 +19,12 @@ $(function() {
 
       });
 
-      /*        	$('#pentagon').on("click", function () {
-            		$('#cut').toggleClass("pent");
+      $('#pentagon').on("click", function() {
+        $('#cut').toggleClass("pent");
 
-            		});
+      });
 
-              	$('#rhombus').on("click", function () {
+      /*        	$('#rhombus').on("click", function () {
             		$('#cut').toggleClass("rhom");
 
             		});
