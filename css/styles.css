@@ -19,11 +19,12 @@
   margin-bottom: 50px;
 }
 
-/*.tri{
+.tri {
   clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
-  transform:rotateY(180deg);
+  transform: rotateY(180deg);
 }
-.cir{
+
+/*.cir{
   clip-path: circle(50% at 50% 50%);
   transform:rotateY(180deg);
 }
