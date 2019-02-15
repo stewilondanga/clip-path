@@ -39,11 +39,12 @@
   transform: rotateY(180deg);
 }
 
-/*.btn2{
-width:500px;
-margin:0 auto;
+.btn2 {
+  width: 500px;
+  margin: 0 auto;
 }
-.btn-danger {
+
+/*.btn-danger {
     padding: 10px;
     font-weight: 600;
     background: #ffea83!important;
