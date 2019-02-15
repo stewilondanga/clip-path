@@ -29,11 +29,12 @@
   transform: rotateY(180deg);
 }
 
-/*.pent{
+.pent {
   clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
-  transform:rotateY(180deg);
+  transform: rotateY(180deg);
 }
-.rhom{
+
+/*.rhom{
   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
   transform:rotateY(180deg);
 }
