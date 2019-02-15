@@ -44,17 +44,17 @@
   margin: 0 auto;
 }
 
-/*.btn-danger {
-    padding: 10px;
-    font-weight: 600;
-    background: #ffea83!important;
-    border: 2px solid #efd038!important;
-    color: #742297!important;
-    width: 100px;
-    margin-right: 20px;
+.btn-danger {
+  padding: 10px;
+  font-weight: 600;
+  background: #ffea83 !important;
+  border: 2px solid #efd038 !important;
+  color: #742297 !important;
+  width: 100px;
+  margin-right: 20px;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
